@@ -1,6 +1,6 @@
 # Hi there, I'm Nguyet Que 👋
 
-I'm a passionate Fullstack Web Developer with a strong interest in the exciting fields of AI and Data Science. My journey in the world of programming and technology began when I discovered my love for problem-solving and innovation. Since then, I've been on a continuous learning journey, exploring the depths of web development while also delving into the fascinating realms of artificial intelligence and data analysis.
+I'm an enthusiastic student with a deep passion for Fullstack Web Development and a keen interest in the dynamic fields of AI and Data Science. My journey into the world of programming and technology ignited when I discovered my love for creative problem-solving and innovation. Since then, my educational path has been a continuous exploration, as I delve into the intricate world of web development while simultaneously immersing myself in the captivating realms of artificial intelligence and data analysis. 🚀📚 
 
 ## 🔧 My Skills
 
