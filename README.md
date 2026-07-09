@@ -1,24 +1,23 @@
 # Hi, I'm Nguyet Que
 
-Software Engineer with 2+ years of experience building backend systems for ERP, document management, and business workflow applications.
+Backend Software Engineer with 2+ years of experience building backend systems for enterprise workflows, ERP modules, reporting, approval flows, and AI-assisted document processing.
 
-I focus on backend development using .NET, Node.js, TypeScript, PostgreSQL, SQL Server, Redis, Docker, and RESTful APIs.
+I mainly work with Node.js, TypeScript, Express.js, PostgreSQL, Redis, Docker, GitLab CI/CD, and RESTful APIs, with hands-on exposure to ASP.NET Core/.NET 8 in enterprise backend services.
 
-## Main Focus
-- Backend API development
-- Enterprise systems and ERP workflows
-- Database design and SQL optimization
-- Authentication, RBAC, background jobs, and integrations
-- Clean, maintainable backend architecture
+## What I focus on
 
-## Tech Stack
-.NET 8, ASP.NET Core, Node.js, TypeScript, Express.js, PostgreSQL, SQL Server, MongoDB, Redis, Docker, GitLab CI/CD
+* Backend API development for enterprise systems
+* ERP workflows, approval flows, reporting, and RBAC
+* PostgreSQL data modeling, SQL queries, and transactional workflows
+* Background jobs, webhooks, structured logging, and production support
+* Reusable backend foundations, OpenAPI documentation, and code generation
+* Practical AI-assisted workflows with preview, validation, and fallback paths
 
-## Featured Projects
-- Enterprise ERP Backend System
-- AI Document Processing / Video Translator
-- Reusable Backend Template
+## Portfolio
 
-## Contact
-LinkedIn: linkedin.com/in/nguyetque01
-Email: quentn0620@gmail.com
+* Portfolio: https://nguyetque-portfolio.vercel.app
+* LinkedIn: https://linkedin.com/in/nguyetque01
+
+## Public demo direction
+
+I am currently preparing public backend demo projects based on synthetic domains and data. These projects are built from scratch and do not include proprietary code, schemas, credentials, business data, or internal documentation from previous employers.
