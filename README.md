@@ -17,7 +17,3 @@ I mainly work with Node.js, TypeScript, Express.js, PostgreSQL, Redis, Docker, G
 
 * Portfolio: https://nguyetque-portfolio.vercel.app
 * LinkedIn: https://linkedin.com/in/nguyetque01
-
-## Public demo direction
-
-I am currently preparing public backend demo projects based on synthetic domains and data. These projects are built from scratch and do not include proprietary code, schemas, credentials, business data, or internal documentation from previous employers.
